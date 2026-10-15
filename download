@@ -1,0 +1,18 @@
+# Datasets and installers: never commit these
+*.tgz
+*.tar.gz
+*.spl
+*.deb
+*.zip
+
+# Secrets
+user-seed.conf
+.env
+*.pem
+*.key
+*password*
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+.vscode/
