@@ -65,7 +65,15 @@ flowchart LR
 | BOTS v2 | `botsv2` | 16.4 GB (full) | Splunk 7.2.1 |
 | BOTS v3 | `botsv3` | about 320 MB | Splunk 7.1.7 |
 
-Datasets are published by Splunk. This repository does not redistribute them. See the official repositories: [`splunk/botsv1`](https://github.com/splunk/botsv1), [`splunk/botsv2`](https://github.com/splunk/botsv2), [`splunk/botsv3`](https://github.com/splunk/botsv3).
+Datasets are published by Splunk. This repository does not redistribute them. See the official repositories:
+<img width="1881" height="562" alt="Screenshot 2026-10-14 182331" src="https://github.com/user-attachments/assets/3bf8dbee-6894-4732-8385-7574504bb2ed" />
+[`splunk/botsv1`](https://github.com/splunk/botsv1),
+
+<img width="1277" height="401" alt="Screenshot 2026-10-15 200558" src="https://github.com/user-attachments/assets/49bd4b15-6f7b-45c8-9598-5b7c9ad25711" />
+[`splunk/botsv2`](https://github.com/splunk/botsv2),
+
+<img width="1342" height="501" alt="Screenshot 2026-10-15 202459" src="https://github.com/user-attachments/assets/84e65a29-272f-4657-95d9-be3a05c96106" />
+[`splunk/botsv3`](https://github.com/splunk/botsv3).
 
 ## Repository Structure
 
